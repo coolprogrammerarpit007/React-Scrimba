@@ -1,0 +1,28 @@
+// Library VS Framework
+
+Library :-
+ 1. Collection of reusable code.
+ 2. Reduces need to write repetable/complex things from scratch.
+ 3. Your control how/when it's used No Few boundries.
+
+ Framework:-
+
+ 1. Predetermined Architecture - you follow a specified pattern of development.
+ 2. you work with in the boundries set by framework.
+ 3. There are "right" and "wrong" ways to use it.
+
+ // React is a Library.
+
+ // WHY choose react.
+
+ // 1. Highest JOB Demand.
+ // 2. Less Magic.
+ // 3. Largest ecosystem/community.
+ // 4. COMPOSABLE/Declarative.
+ // 5. Active Development
+
+ Advantages of React
+
+ 1. React is Composable, can create easily reusable and interchangable "pieces of the web" that can be combined in various ways to create complex systems.
+
+ 2. React is Declarative. means needs to tell what need to be done and it handles complexity.
